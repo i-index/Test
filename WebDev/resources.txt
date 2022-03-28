@@ -1,0 +1,5 @@
+https://codepen.io/                    to see and modify code
+https://validator.w3.org/              to validate your code ( warnings and errors)
+https://fontawesome.com/
+https://wave.webaim.org                to validate accessibility
+funkify

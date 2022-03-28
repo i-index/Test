@@ -1,0 +1,25 @@
+Headings (block : meaning they take more than a line you can press enter and continue)
+          <h1>, <h2>,....,<h6>...etc
+
+Paragraphs (block)
+          <p>......</p>
+          should only contain inline elements (same line tags)
+
+Divs (block)
+        <div>.....</div>
+        Generic section that is larger than a paragraph
+
+Ordered list
+<ol> (ordered list)
+    <li> Item One </li> (list)
+    <li> Item Two </li>
+</ol>    
+
+Line breaks
+<br>
+
+Unordered list
+<ul>
+    <li> Item One </li>
+    <li> Item Two </li>
+</ul>    
